@@ -1,0 +1,21 @@
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\bin\Debug\serial_ReadAndWrite.exe.config
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.csprojResolveAssemblyReference.cache
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.Form1.resources
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.Properties.Resources.resources
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.csproj.GenerateResource.Cache
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\bin\Debug\serial_ReadAndWrite.exe
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\bin\Debug\serial_ReadAndWrite.pdb
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.exe
+c:\users\asarpi\documents\visual studio 2015\Projects\serial_ReadAndWrite\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.pdb
+d:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\bin\Debug\serial_ReadAndWrite.exe.config
+d:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.exe
+d:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.pdb
+D:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\bin\Debug\serial_ReadAndWrite.exe
+D:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\bin\Debug\serial_ReadAndWrite.pdb
+D:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.csprojResolveAssemblyReference.cache
+D:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.Form1.resources
+D:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.Properties.Resources.resources
+D:\03_PetProjects\LEDtable\LEDTable_for_windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.csproj.GenerateResource.Cache
+C:\__DATA__\03_PetProjects\led_table\LED_Table_for_Windows\serial_ReadAndWrite\bin\Debug\serial_ReadAndWrite.exe.config
+C:\__DATA__\03_PetProjects\led_table\LED_Table_for_Windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.exe
+C:\__DATA__\03_PetProjects\led_table\LED_Table_for_Windows\serial_ReadAndWrite\obj\Debug\serial_ReadAndWrite.pdb
